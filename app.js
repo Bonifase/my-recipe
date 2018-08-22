@@ -13,5 +13,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.get('/', function(req, res){
-    consol.console.log(("TEST"));   
+    res.render('index');   
+});
+app.listen(3000, function(){
+    console.log('Server started on Port 3000')
 });
