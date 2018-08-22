@@ -25,7 +25,7 @@ If you're looking for a recipe organizer because you need something to bridge th
 - Clone the my-recipe repo and cd into it:
 
   ```
-  git clone https://github.com/andela/activo-api.git
+  git clone https://github.com/Bonifase/my-recipe.git
   ```
 
 - Install dependencies:
