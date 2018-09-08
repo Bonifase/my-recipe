@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/c489c38d21fb6747e885/maintainability)](https://codeclimate.com/github/Bonifase/my-recipe/maintainability)
+
 ## My Recipe
 
 A recipe organizer.
